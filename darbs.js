@@ -23,3 +23,7 @@ function uzd4(){
     window.location.replace("lapa4.html");
     //šeitmds;jfkn
 }
+
+function uzd5(){
+    window.location.replace("lapa5.html");
+}
