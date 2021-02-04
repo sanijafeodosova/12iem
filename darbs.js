@@ -9,8 +9,17 @@ function home(){
 }
 
 
-
 function uzd2(){
     window.location.replace("lapa2.html");
+    //šeitmds;jfkn
+}
+
+function uzd3(){
+    window.location.replace("lapa3.html");
+    //šeitmds;jfkn
+}
+
+function uzd4(){
+    window.location.replace("lapa4.html");
     //šeitmds;jfkn
 }
